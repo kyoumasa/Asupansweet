@@ -2,6 +2,7 @@ feedparser
 psycopg2-binary
 pyrogram
 python-dotenv
+pyrogram==1.4.16
 Pyromod
 sqlalchemt==1.3.23
 TgCrypto
